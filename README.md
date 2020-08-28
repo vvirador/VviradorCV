@@ -1,6 +1,9 @@
 ## Welcome to my CV page
 
-You can use the [editor on GitHub](https://github.com/vvirador/VviradorCV/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Reverse chronological activities
+- Associate editor, Frontiers Board of Molecular and Cellular Oncology (specialty section of Frontiers in Oncology and Frontiers in Cell and Developmental Biology). August 2020
+- 
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
